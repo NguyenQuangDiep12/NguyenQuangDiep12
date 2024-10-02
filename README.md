@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm [Diep]!
 
 I'm a passionate software developer with experience in building web applications using a variety of technologies. Here are some of the tech stacks I work with:
 
@@ -24,8 +24,8 @@ I'm a passionate software developer with experience in building web applications
 !Your GitHub stats
 
 ## 📫 How to reach me
-- **Email**: your.email@example.com
-- **LinkedIn**: Your LinkedIn Profile
+- **Email**: nguyenquangdiepnx1@gmail.com
+
 
 ## 🌱 Currently Learning
 - Advanced Spring Boot features
@@ -37,5 +37,5 @@ Feel free to reach out if you want to collaborate on any project or just want to
 
 ---
 
-*This README was generated with ❤️ by [Your Name]*
+*This README was generated with ❤️ by [Diep]*
 
