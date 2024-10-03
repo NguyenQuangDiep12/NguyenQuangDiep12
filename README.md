@@ -9,11 +9,13 @@ I'm a passionate software developer with experience in building web applications
 - **MySQL**: Relational database management.
 - **SQL Server**: Enterprise-level database solutions.
 - **MongoDB**: NoSQL database for flexible and scalable data storage.
+  
 
 ### Frontend
 - **ReactJS**: Creating dynamic and responsive user interfaces.
 - **JSP**: Java Server Pages for server-side rendering.
 - **Thymeleaf**: Modern server-side Java template engine for web and standalone environments.
+- **JavaSwing**: Java Swing is a graphical interface (GUI) library used to build user interface applications in Java.
 
 ### Web Technologies
 - **HTML**: Structuring web content.
